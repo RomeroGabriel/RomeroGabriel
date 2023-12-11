@@ -1,7 +1,6 @@
-<h1 align="center"><b>Hi , I'm Gabriel Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+# 👋 &nbsp;Hey there! I'm Gabriel
 
-## <picture><img src = "https://github.com/RomeroGabriel/RomeroGabriel/assets/33581498/a6e7fe91-b07e-4fb0-9970-169e057be961" width = 50px></picture> **About me**
+## About Me
 
 Driven and accomplished software engineer with 5+ years of experience building and optimizing robust backend systems and data pipelines. Skilled in OOP, functional, and distributed programming, with a passion for learning new technologies and pushing the boundaries of what's possible. Committed to writing clean, efficient, and maintainable code that aligns with business goals and user needs. Seeking a challenging role in a dynamic and innovative environment that values teamwork, creativity, and professional growth.
 <br>
@@ -58,10 +57,6 @@ Driven and accomplished software engineer with 5+ years of experience building a
 <br>
 <br>
 <br>
-
-## [Roadmap stats](https://roadmap.sh/)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b2a0485f038d81eeb6b506?variant=dark)](https://roadmap.sh)
-
 
 -----
 Credit: [Abdul Khalid](https://github.com/RomeroGabriel)
